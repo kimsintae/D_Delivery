@@ -3,5 +3,3 @@
 
 Fun Travel
 
-기술스택
-
